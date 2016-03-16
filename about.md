@@ -1,6 +1,6 @@
 ---
-title: About
-layout: about
+title: Clark Lemke
+layout: default
 permalink: /about
 ---
 
