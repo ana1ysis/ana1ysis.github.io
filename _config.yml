@@ -1,3 +1,6 @@
-name: Clark Lemke, Horrible Person
+name: Clark Lemke
 markdown: kramdown
+twitter_username:     ClarkLemke
+github_username:      ana1ysis
+linkedin_username:    clarklemke
 permalink: /blog/:year/:month/:day/:title
