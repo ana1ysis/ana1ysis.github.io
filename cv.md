@@ -8,6 +8,7 @@ permalink: /cv
 * Mobile: +44 (0)7826 005978 
 * Email: clarklemke@gmail.com
 * LinkedIn: linkedin.com/in/clarklemke 
+
 ## Education
 
 * *D. Phil.* (Ph.D.) in Physics and Neuroscience, [University of Oxford](http://www.ndcn.ox.ac.uk/divisions/fmrib), UK, 2011 – 2015
