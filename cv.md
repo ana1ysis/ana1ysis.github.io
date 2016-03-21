@@ -6,8 +6,6 @@ permalink: /cv
 # Clark Hamilton Lemke
 * Address: Flat D, 101 Divinity Road, Oxford, UK 
 * Mobile: +44 (0)7826 005978 
-* Email: clarklemke@gmail.com
-* LinkedIn: linkedin.com/in/clarklemke 
 
 ## Education
 
@@ -47,4 +45,3 @@ permalink: /cv
 ## Other Information
 * Languages: English, French
 * [Building a Better Business Certificate](http://www.sbs.ox.ac.uk/faculty-research/entrepreneurship/initiatives/building-business) from the Saïd Business School at the University of Oxford. 
-* Interests: Soccer (played at semi-pro level), Go (board game, achieved 3-dan rank), Poker (mid-stakes ring player), Travel (been to 24 countries on 5 continents), Movies (particularly fascinated by B-movies and unintentional comedies)
