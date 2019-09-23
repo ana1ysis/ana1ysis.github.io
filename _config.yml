@@ -4,3 +4,5 @@ twitter_username:     ClarkLemke
 github_username:      ana1ysis
 linkedin_username:    clarklemke
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-cayman
